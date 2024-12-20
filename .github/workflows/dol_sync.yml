@@ -1,0 +1,2 @@
+- name: DOL Sync
+  uses: action-pack/gitlab-sync@v3
